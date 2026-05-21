@@ -1,0 +1,9 @@
+# Archivo CSV grande - no se sube al repo (demasiado pesado para GitHub)
+*.csv
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
