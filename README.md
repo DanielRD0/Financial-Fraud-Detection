@@ -115,7 +115,7 @@ Esto permitió construir escenarios de fraude coherentes con situaciones observa
 # 🗂️ Estructura del Repositorio
 
 ```text
-[NombreRepo]/
+Financial-Fraud-Detection/
 │
 ├── limpiezaDeDatosDefinitivo.ipynb
 ├── generate_financial_transactions_dataset.py
@@ -126,7 +126,7 @@ Esto permitió construir escenarios de fraude coherentes con situaciones observa
 │   └── metricas_modelos.csv
 │
 ├── dashboards/
-│   └── .pbix
+│   └── PROY.FINAL_DATA_SCIENCE_FINAL.pbix
 │
 ├── docs/
 │   └── DocumentacionTecnica_FraudeFinanciero.docx
